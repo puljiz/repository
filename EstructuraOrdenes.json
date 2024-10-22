@@ -1,0 +1,22 @@
+{
+  "OrderID": 12345,
+  "Address": "123 Main St, Anytown, AT 12345",
+  "Status": "In Transit",
+  "Articles": [
+    {
+      "Name": "Laptop",
+      "Quantity": 1,
+      "Dangerous": false
+    },
+    {
+      "Name": "Batteries",
+      "Quantity": 4,
+      "Dangerous": true
+    },
+    {
+      "Name": "Books",
+      "Quantity": 3,
+      "Dangerous": false
+    }
+  ]
+}
